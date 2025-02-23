@@ -1,5 +1,8 @@
 # Ditch the Word Processor, Embrace the WIDE: Supercharge Your Writing with Cursor AI
 
+> Dazza Greenwood.
+> Last Revised: February 22, 2025
+
 We all write. Whether it's emails, reports, proposals, articles, documentation, or even social media posts, writing is a fundamental part of modern work. But traditional word processors often feel like glorified typewriters. What if your writing tool could be an intelligent partner, helping you research, synthesize, draft, and refine your content? That's the promise of Cursor AI, a tool that transforms your writing workflow.
 
 Forget "Integrated Development Environment" (IDE). We're talking about a **Writing IDE (WIDE)** – a place where your writing *and* your AI collaborate seamlessly.  I've been using Cursor, not for coding, but for *writing*, and it's revolutionized my productivity.  Let me show you how.
